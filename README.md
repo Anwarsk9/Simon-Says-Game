@@ -1,4 +1,4 @@
-#Simon Says Web Game
+# Simon Says Web Game
 Challenge your memory and reflexes with our interactive Simon Says web game! This classic memory game is brought to life on the web, offering a fun and engaging experience for players of all ages.
 
 ## Features
