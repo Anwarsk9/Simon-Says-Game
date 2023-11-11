@@ -10,7 +10,7 @@ A classic Simon Says game implemented in HTML, CSS and JavaScript. Test your mem
 
 ## How to Play
 ### Start the Game:
-Launch the Simon Says game on your device[https://simon-says-games.netlify.app].
+Launch the Simon Says game on your device https://simon-says-games.netlify.app
 
 ## Contributing
 
