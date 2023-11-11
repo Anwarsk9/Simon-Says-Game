@@ -10,25 +10,18 @@ Challenge your memory and reflexes with our interactive Simon Says web game! Thi
 
 - Compete with Friends: Challenge your friends to beat your high score or see who can conquer the longest sequence. Share the fun and excitement!
 
-## How to Play
-### Start the Game:
-Launch the Simon Says game on your device https://simon-says-games.netlify.app
+## How to Play:
+- Start the Game: Click play to kick off the Simon Says challenge.
 
-### Listen to the Sequence:
-Simon (the game) will show a sequence of colored lights, sounds, or both.
-Pay close attention to the order in which the colors are presented.
+- Memorize the Sequence: Pay attention as Simon presents a sequence of colors.
 
-### Repeat the Sequence:
-After Simon completes the sequence, it's your turn to repeat it.
-Use the same sequence of colors in the exact order.
+- Repeat the Pattern: It's your turn! Click the colors in the exact order Simon showed you.
 
-### Continue Playing:
-The game continues by alternating between Simon's turn and your turn.
-Keep replicating the increasingly longer sequences.
+- Level Up: Successfully completing a round? Brace yourself for an increasingly complex sequence in the next level.
 
-### Game Over on Mistake:
-If you make a mistake by not replicating the correct sequence, the game may end.
-Some versions allow you to restart, while others might provide a score.
+- Track Your Score: Compete against yourself or challenge friends to beat your score. Aim for the top!
+
+- Are you ready to test your memory and have a blast with Simon Says? Play now and see how far you can go!
 
 ## Contributing
 
