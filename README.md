@@ -26,8 +26,4 @@ Challenge your memory and reflexes with our interactive Simon Says web game! Thi
 
 <img src="Screenshort/Simon-Says.png" height="500px" />
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and submit a pull request.
-
 
