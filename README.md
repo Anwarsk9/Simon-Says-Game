@@ -24,7 +24,7 @@ Challenge your memory and reflexes with our interactive Simon Says web game! Thi
 
 - Are you ready to test your memory and have a blast with Simon Says? Play now and see how far you can go!
 
-![Simon-Says-Game ScreenShort](Screenshort/Simon-Says.png)
+<img src="Screenshort/Simon-Says.png" height="500px" />
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
