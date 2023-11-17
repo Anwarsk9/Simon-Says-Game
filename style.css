@@ -71,3 +71,13 @@
 .flash {
   background-color: #fff !important;
 }
+
+@media (max-width:550px){
+  .btn {
+    height: 150px;
+    width: 150px;
+  }
+  .container h1{
+    font-size: 35px;
+  }
+}
